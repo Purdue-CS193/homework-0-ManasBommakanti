@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Manas Bommakanti's First CS193 Homework
+
+Things I like about CS193
+- It seems to be like a chill class.
+- TAs seem cool
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
